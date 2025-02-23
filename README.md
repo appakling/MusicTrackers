@@ -1,9 +1,17 @@
-# Cool Music Trackers
-a huge collection of music trackers, their system, and what I think of them.
+# Music Tracker List
+### What Is A Tracker?
+a tracker is a type of music production software, which was popular from 1988 -> the early 2000s. they look like spreadsheets, and were often on retro computers. \
+the first tracker, (The Ultimate Soundtracker) was leaked online shortly after it's release, causing demoscene groups to make their own hacks. [This video](https://www.youtube.com/watch?v=roBkg-iPrbw) has lots of information, and fun facts.
+### Information on this list.
+- Most of the entries are from [pouet.net](https://pouet.net), a demoscene website containing hoards of old trackers, tools, and demos.
+- All information was found on the website the tracker was on.
+- OSX is labelled as Mac
+- The Thoughts collum is an opinion, a comment from the site, or personal observations. take it with a grain of salt.
+- This list is in no order whatsoever. Use CTRL+F to find stuff.
+- This list is not complete. it is purely my findings.
 
-this list is in no order, and CTRL+F will be helpful.
-
-| Name | Description | System | Year 
+## The List
+| Name | Thoughts | System | Year 
 | ---- | --- | --- | --- 
 | [DBE Tracker](https://www.pouet.net/prod.php?which=29335) | looks very good for an atari tracker, and is amazing according to the comments | Atari ST/STe | 2004
 | [StarTrekker 1.2](https://www.pouet.net/prod.php?which=34759) | apparently 1.3 was better, but this was fun | Amiga OCS/ECS | 1990
