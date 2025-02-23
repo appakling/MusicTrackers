@@ -1,10 +1,36 @@
-# MusicTrackers
+# Cool Music Trackers
 a huge collection of music trackers, their system, and what I think of them.
 
 this list is in no order, and CTRL+F will be helpful.
 
 | Name | Description | System | Year 
 | ---- | --- | --- | --- 
+| [DBE Tracker](https://www.pouet.net/prod.php?which=29335) | looks very good for an atari tracker, and is amazing according to the comments | Atari ST/STe | 2004
+| [StarTrekker 1.2](https://www.pouet.net/prod.php?which=34759) | apparently 1.3 was better, but this was fun | Amiga OCS/ECS | 1990
+| [Reflex Tracker](https://www.pouet.net/prod.php?which=59064) | waveforms on c64! | Commodore 64 | 1995
+| [TCB Tracker](https://www.pouet.net/prod.php?which=22538) | sucks, apparently | Atari ST | ???
+| [IceTracker](https://www.pouet.net/prod.php?which=34748) | looks like it has diffrences from the other pt2 ones... | Amiga OCS/ECS | 1993
+| [AllSoundTracker](https://www.pouet.net/prod.php?which=64891) | "Impulse-like tracker for AWE32/64. A bit buggy & clunky but it works well. Can use ALL the features of the AWE including MIDI, hardware synth & FM. Shame it wasnt developed just a bit more." | MS-DOS | 2001
+| [PSG Tracker](https://www.pouet.net/prod.php?which=55428) | doesn't use the normal keyboard layout, for example C is for C and F is for F. you then can add # for a sharp... that's horrible | MSX 2 | 1992
+| [Master Soundtracker](https://www.pouet.net/prod.php?which=34745) | this was one of the first Ultimate Soundtracker hacks iirc | Amiga OCS/ECS | 1988
+| [Ultra Tracker](https://www.pouet.net/prod.php?which=63386) | good and fugly. was nice before ft2... | MS-DOS/Gus | 1994
+| [Dr. Track](https://www.pouet.net/prod.php?which=53873) | one of the first MS-DOS trackers! | MS-DOS | 1991
+| [StarTrekker](https://www.pouet.net/prod.php?which=92406) | another one of those Ultimate Soundtracker hacks... | Amiga OCS/ECS | 1990
+| [PSG Tracker 2](https://www.pouet.net/prod.php?which=29330) | a simple atari tracker. | Atari ST | 1991
+| [FunkTracker](https://www.pouet.net/prod.php?which=55234) | a simple MS-DOS tracker | MS-DOS/gus | 1995
+| [FamiTracker](http://famitracker.com/) | a chiptune tracker, pretty nice but dated | Windows | 2005
+| [Omega Tracker](https://www.pouet.net/prod.php?which=83926) | horrible colors... | BK-0010/11M | 1998
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+| [TrashTracker](https://www.pouet.net/prod.php?which=34766) | looks like a pt2 mod | Amiga OCS/ECS | 1992
+| [Faust Music Creator](https://www.pouet.net/prod.php?which=55235) | really bare bones... | MS-DOS | 1995
+| [Bitbox Chiptracker](https://www.pouet.net/prod.php?which=70067) | never heard of bitbox before | Bitbox | 2017
+| [Global Tracker 2](https://www.pouet.net/prod.php?which=66259) | looks bare bones... | ZX Spectrum | 2015
+| [ The Ultimate Soundtracker](https://www.pouet.net/prod.php?which=50032) | The first one ever! | Amiga OCS/ECS | 1988
 | [Impulse Tracker](https://www.pouet.net/prod.php?which=13366) | an ancient relic of the MS-DOS era | MS-DOS | 1997 
 | [ScreamTracker](https://www.pouet.net/prod.php?which=13351) | a completely dead tracker. | MS-DOS | 1994 
 | [HoustonTracker](https://www.pouet.net/prod.php?which=66473) | for your calculator... why? | TI-82 | 2015
