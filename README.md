@@ -20,12 +20,9 @@ this list is in no order, and CTRL+F will be helpful.
 | [FunkTracker](https://www.pouet.net/prod.php?which=55234) | a simple MS-DOS tracker | MS-DOS/gus | 1995
 | [FamiTracker](http://famitracker.com/) | a chiptune tracker, pretty nice but dated | Windows | 2005
 | [Omega Tracker](https://www.pouet.net/prod.php?which=83926) | horrible colors... | BK-0010/11M | 1998
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
+| [Furnace](https://github.com/tildearrow/furnace) | chiptune tracker, still in development and compatable with defilemask modules | Windows, Mac, Linux | 2021
+| [OctaMED]() | couldn't find a download | Amiga | 1989
+| [BuzzTrax](https://github.com/Buzztrax/buzztrax/releases/tag/RELEASE_0_10_2) | for linux, I can't run it | Linux | 2013
 | [TrashTracker](https://www.pouet.net/prod.php?which=34766) | looks like a pt2 mod | Amiga OCS/ECS | 1992
 | [Faust Music Creator](https://www.pouet.net/prod.php?which=55235) | really bare bones... | MS-DOS | 1995
 | [Bitbox Chiptracker](https://www.pouet.net/prod.php?which=70067) | never heard of bitbox before | Bitbox | 2017
