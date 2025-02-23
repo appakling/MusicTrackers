@@ -65,7 +65,7 @@ this list is in no order, and CTRL+F will be helpful.
 | [Propulse Tracker](https://www.pouet.net/prod.php?which=97304) | Schism Tracker at home. it can make protracker modules. it's cool i guess. | Linux, Windows | 2020
 | [Checktrakk](https://www.pouet.net/prod.php?which=78349) | for the amiga! looks cool, but only if you do demoscene stuff will you be using this... (imo) | Atari ST | 2018
 | [Arkos Tracker](https://www.pouet.net/prod.php?which=80888) | chiptune tracker. very cute and purple. I want to learn this. | Linux, Windows, Mac, Atari ST, Amstrad CPC, ZX Spectrum, Oric, MSX, Vectrex, Sharp MZ, ZX Enhanced | 2018
-| [PICO-8](https://www.lexaloffle.com/pico-8.php) | pico-8, the fantasy console, has a tracker. it's cute, simple, restricting, and is pretty sick. $15 dollars, but you get a game engine w/ it. good deal. /j | Windows, Mac, Linux, PocketCHIP | 2014
+| [PICO-8](https://www.lexaloffle.com/pico-8.php) | pico-8, the fantasy console, has a tracker. it's cute, simple, restricting, and is pretty sick. $15 dollars, but you get a game engine w/ it. good deal. /j | Windows, Mac, Linux, PocketCHIP, Web | 2014
 | [Little GPT Tracker](https://littlegptracker.com/) | a tracker for handhelds. perfect format, works well, is cute, and runs on a lot of stuff. pretty good at what it does tho. | G2PX, Caanoo, PSP, Dingoo, Debian, Mac, Windows, Miyoo Mini | 2006?
 | [LSDJ (Little Sound DJ)](https://www.littlesounddj.com/lsd/index.php) | a cute lil' tracker for the Gameboy system. good for chiptune, cute UI, and fun for the whole family. | Gameboy | 2000
 | [M4G Tracker](https://www.gamebrew.org/wiki/M4G_Tracker_GBA) | a GBA tracker. very cool, i use this sometimes. it's fun to fiddle around in. | Gameboy Advance | ???
